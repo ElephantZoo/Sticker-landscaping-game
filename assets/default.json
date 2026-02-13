@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-02-12T17:25:29.192Z",
+  "viewport": {
+    "x": 690.5199581249001,
+    "y": 467.015163715144,
+    "scale": 0.2785606636998752
+  },
+  "layers": {
+    "bg": [
+      {
+        "src": "assets/BG/bg_0.png",
+        "type": "bg",
+        "x": -1083.18,
+        "y": -541.447,
+        "w": 1756,
+        "h": 1055,
+        "r": 0,
+        "s": 1,
+        "f": 1,
+        "isDynamic": false,
+        "isLight": false,
+        "lightColor": "#ffaa00",
+        "animFolder": "undefined",
+        "animTotal": "undefined"
+      },
+      {
+        "src": "assets/BG/bg_1.png",
+        "type": "bg",
+        "x": -262.246,
+        "y": -1292.25,
+        "w": 929,
+        "h": 1276,
+        "r": 0,
+        "s": 1,
+        "f": 1,
+        "isDynamic": false,
+        "isLight": false,
+        "lightColor": "#ffaa00",
+        "animFolder": "undefined",
+        "animTotal": "undefined"
+      },
+      {
+        "src": "assets/BG/bg_3.png",
+        "type": "bg",
+        "x": -1053.25,
+        "y": -1293.33,
+        "w": 932,
+        "h": 1277,
+        "r": 0,
+        "s": 1,
+        "f": 1,
+        "isDynamic": false,
+        "isLight": false,
+        "lightColor": "#ffaa00",
+        "animFolder": "undefined",
+        "animTotal": "undefined"
+      }
+    ],
+    "deco": []
+  }
+}
